@@ -1,5 +1,5 @@
-Hostname: Host1.dev-branch
-Host IP: 192.168.32.3
+Hostname: Host1.qa1-branch
+Host IP: 192.168.32.5
 
-Hostname: Host2.dev-branch
-Host IP: 192.168.32.4
+Hostname: Host2.qa1-branch
+Host IP: 192.168.32.6
