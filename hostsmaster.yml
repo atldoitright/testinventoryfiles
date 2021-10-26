@@ -1,5 +1,8 @@
-Hostname: Host1
-Host IP: 192.168.32.1
+Hostname: Host1.qa1-branch
+Host IP: 192.168.32.5
 
-Hostname: Host2
-Host IP: 192.168.32.2
+Hostname: Host2.qa1-branch
+Host IP: 192.168.32.6
+
+Hostname: Host3.qa1-branch
+Host IP: 192.168.32.7
